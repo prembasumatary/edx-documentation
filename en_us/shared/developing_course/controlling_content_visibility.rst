@@ -7,13 +7,11 @@ Controlling Content Visibility
 As a member of the course team, you must carefully control which content is
 visible to learners and when.
 
-You control content visibility through these features in Studio.
+You can control content visibility through the following features.
 
 .. contents::
   :local:
   :depth: 1
-
-These features work together to control content visibility for learners.
 
 
 .. _Release Dates:
@@ -153,6 +151,23 @@ course outline.
    Subsection After its Due Date`.
 
 
+.. _Enrollment Track Groups:
+
+*************************
+Enrollment Track Groups
+*************************
+
+If your course has more than one enrollment track, you can designate specific
+components as being available to learners in each of the enrollment tracks.
+
+For example, you might provide the same content to all learners in a section
+but might give one exam to learners in the audit track and another exam for
+learners in the verified certificate track.
+
+For information about creating differentiated content based on enrollment
+track, see :ref:`Enrollment Track Specific Courseware Overview`.
+
+
 .. _Content Groups:
 
 **************
@@ -165,6 +180,9 @@ groups of learners.
 
 For details, see :ref:`About Content Groups` and :ref:`Cohorted Courseware
 Overview`.
+
+
+
 
 .. _configuring_prerequisite_content:
 
