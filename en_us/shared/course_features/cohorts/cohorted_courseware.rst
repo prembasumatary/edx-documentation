@@ -244,7 +244,7 @@ these steps.
    then select the checkbox for each content group for which you want the
    current component to be visible.
 
-   .. image:: ../../../../shared/images/Cohorts_EditVisibility.png
+   .. image:: ../../../../shared/images/ComponentEditVisibility.png
     :width: 400
     :alt: The visibility settings dialog box for a component.
 
@@ -252,9 +252,9 @@ these steps.
 
 The **Visibility Settings** icon for the component is now black.
 
-.. image:: ../../../../shared/images/Cohorts_VisibilitySomeGroup.png
+.. image:: ../../../../shared/images/Component_VisibilitySomeGroup.png
    :alt: The black visibility icon for a component, showing that the component
-     is restricted
+     has restricted visibility
    :width: 200
 
 The publishing details for the course section in the sidebar indicate that some

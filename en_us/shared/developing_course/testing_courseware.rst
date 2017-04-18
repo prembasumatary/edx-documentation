@@ -155,9 +155,8 @@ When you select **View Live** or **Preview** from the course outline in Studio,
 you can see how it would appear to members of different groups by selecting one
 of the **View this course as** options in the LMS.
 
-   .. image:: ../../../shared/images/Cohorts_ViewCourseAs.png
-     :alt: The "View this course as" drop down list, with a content group
-         selected.
+   .. image:: ../../../shared/images/Groups_ViewCourseAs.png
+     :alt: The "View this course as" drop down list, with a group selected.
 
 The following table summarizes the content that is available in either **View
 Live** mode or **Preview** mode when you choose a role for viewing the
