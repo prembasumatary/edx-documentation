@@ -206,10 +206,11 @@ content.
         :ref:`Draft (Unpublished Changes)` that would be available to learners
         who belong to the specified content group.
 
-    * - :ref:`Learner in an Enrollment Track<Student in Content Group
+    * - :ref:`Learner in an Enrollment Track<Learner in Enrollment Track Group
         View>`
       - You see content that has a status of :ref:`Published and Live` that
-        would be available to learners who are in the specified enrollment track.
+        would be available to learners who are in the specified enrollment
+        track.
       - In addition to the content you would see in "View Live" mode, you also
         see content that has a status of :ref:`Draft (Never Published)` or
         :ref:`Draft (Unpublished Changes)` that would be available to learners
