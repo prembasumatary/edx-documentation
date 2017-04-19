@@ -253,9 +253,9 @@ these steps.
 The **Visibility Settings** icon for the component is now black.
 
 .. image:: ../../../../shared/images/Component_VisibilitySomeGroup.png
-   :alt: The black visibility icon for a component, showing that the component
-     has restricted visibility
-   :width: 200
+   :alt: A component's title bar with a list of the groups to which it is
+     visible, and a black visibility icon, indicating that the component has
+     restricted visibility.
 
 The publishing details for the course section in the sidebar indicate that some
 content is visible only to specific groups of learners.

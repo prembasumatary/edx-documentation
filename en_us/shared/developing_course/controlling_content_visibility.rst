@@ -158,14 +158,14 @@ Enrollment Track Groups
 *************************
 
 If your course has more than one enrollment track, you can designate specific
-components as being available to learners in each of the enrollment tracks.
+content as being available to learners in each of the enrollment tracks.
 
-For example, you might provide the same content to all learners in a section
-but might give one exam to learners in the audit track and another exam for
-learners in the verified certificate track.
+For example, you might provide the same course content to all learners except
+that for the mid-term and final exams, learners who are in a non-certificate
+track and learners who are in a certificate track are given different exams.
 
-For information about creating differentiated content based on enrollment
-track, see :ref:`Enrollment Track Specific Courseware Overview`.
+For information about creating differentiated content based on enrollment track,
+see :ref:`Enrollment Track Specific Courseware Overview`.
 
 
 .. _Content Groups:

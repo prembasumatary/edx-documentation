@@ -38,8 +38,9 @@ Complete these steps to create track-specific content in your course.
 Enrollment Track Groups
 **************************
 
-If your course offers more than one enrollment track (for example, a non-
-certificate track and a certificate track), an enrollment track group is
+If your course offers more than one enrollment track (for example, a track
+that does not offer certificates, and a certificate track where learners who
+pass the course can earn a certificate), an enrollment track group is
 automatically created for each enrollment track. You see these groups in
 Studio, on the **Group Configurations** page.
 
@@ -66,7 +67,7 @@ when learners change from one enrollment track to another.
 
 .. warning:: If a learner changes enrollment tracks after having completed some
    course content in a different enrollment track, only grades from content
-   that was available to all learners, are kept and reflected in the learner's
+   that was available to all learners are kept and are reflected in the learner's
    progress page.
 
 
@@ -80,7 +81,7 @@ You can edit your course in Studio and modify the visibility settings of
 components that you want to make visible only to learners in particular
 enrollment tracks.
 
-You can specify content as visible to learners by enrollment track only at the
+You specify content as visible to learners by enrollment track at the
 component level in a unit. You cannot specify entire units, subsections, or
 sections for visibility by enrollment track.
 
@@ -114,12 +115,13 @@ tracks, follow these steps.
 
 #. Select **Save**.
 
-The **Visibility Settings** icon for the component is now black.
+The **Visibility Settings** icon for the component is now black, and the list
+of groups to which this component is visible is listed under the title.
 
 .. image:: ../../../../shared/images/Component_VisibilitySomeGroup.png
-   :alt: The black visibility icon for a component, showing that the component
-     has restricted visibility
-   :width: 200
+   :alt: A component's title bar with a list of the groups to which it is
+     visible, and a black visibility icon, indicating that the component has
+     restricted visibility.
 
 The publishing details for the course section in the sidebar indicate that some
 content is visible only to specific groups of learners.
