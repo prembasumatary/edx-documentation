@@ -14,8 +14,8 @@ when the course starts. or even at any one time during the course. Instead,
 additional content might become available at different times in the course, or
 as you progress through the course.
 
-Here are some reasons why course content becomes available at different times
-in the course.
+Course content might become available in the course at different times for
+various reasons, including the following reasons.
 
 * The course team has scheduled specific content for release on specific
   dates. That content is added to the course outline only on the date
@@ -38,4 +38,4 @@ course starts.
 
 If you do not see the course content that you expect, you can check for
 information about the course schedule and content prerequisites on the course
-**Home** page or you can ask questions in the course discussions.
+**Home** page, or you can ask questions in the course discussions.

@@ -52,11 +52,11 @@ unit navigation bar on the **Course** page. You can also see a list of all of
 your bookmarks on the **My Bookmarks** page.
 
 To access the **My Bookmarks** page, select **Bookmarks** on the course
-page, under **Course Tools**.
+page.
 
 .. image:: ../../shared/students/Images/SFD_Bkmk_BookmarksLink.png
  :width: 800
- :alt: A course page that shows the Bookmarks option under Course Tools.
+ :alt: A course page that shows a link to the My Bookmarks page.
 
 The **My Bookmarks** page lists all of the pages you have bookmarked in the
 course, with the most recently created ones at the top. This page includes the

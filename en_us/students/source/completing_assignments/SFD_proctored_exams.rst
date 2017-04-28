@@ -152,7 +152,7 @@ are the basic rules that most courses use for "closed book" exam situations.
 Some courses might use different rules for their proctored exams, such as
 allowing you to access reference material or to use a calculator or pen and
 paper during the exam. Your course team will tell you if your exam has special
-rules that are used to judge your exam.
+rules.
 
 If you are not told that your exam has different proctoring exam rules, make
 sure that you follow the edX Online Proctoring Rules.
